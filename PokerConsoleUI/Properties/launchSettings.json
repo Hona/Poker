@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PokerConsoleUI": {
+      "commandName": "Project",
+      "commandLineArgs": "127.0.0.1:11111 s"
+    }
+  }
+}
